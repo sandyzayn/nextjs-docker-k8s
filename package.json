@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-docker-k8s-app",
+  "version": "1.0.0",
+  "description": "A Node.js application with Docker and Kubernetes deployment.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
